@@ -18,4 +18,14 @@ public class Application_Test {
         System.out.println("running test 3");
     }
 
+    @Test
+    public void test4(){
+        System.out.println("running test 4");
+    }
+
+    @Test
+    public void test5(){
+        System.out.println("running test 5");
+    }
+
 }
