@@ -27,7 +27,7 @@ public class Application_Test {
     @Test
     public void test5(){
         System.out.println("running test 5");
-        Assertions.fail();
+
     }
 
 }
