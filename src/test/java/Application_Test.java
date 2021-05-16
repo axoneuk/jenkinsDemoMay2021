@@ -1,4 +1,5 @@
 
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 public class Application_Test {
@@ -26,6 +27,7 @@ public class Application_Test {
     @Test
     public void test5(){
         System.out.println("running test 5");
+        Assertions.fail();
     }
 
 }
